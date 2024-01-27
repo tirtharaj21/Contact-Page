@@ -1,0 +1,22 @@
+.navigation{
+    padding: 10px 2px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 72px;
+    margin-top: 20px;
+
+  }
+  .navigation ul{
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   }
+    nav img{
+     border: 3px solid black;
+     border-radius: 20px;
+     width:150px;
+     margin-left: 0px;
+   }
